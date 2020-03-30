@@ -15,6 +15,8 @@ The requirements needed for aws-pharos is a ReadOnly-User with programatic acces
 AWS has a policy named "ReadOnlyAccess" that you can attach to the user.
 You can find the policy below:
 
+<details><summary>ReadOnlyPolicy</summary>
+
 ### ReadOnlyPolicy
 
 ```
@@ -557,6 +559,8 @@ You can find the policy below:
     ]
 }
 ```
+
+</details>
 
 
 
