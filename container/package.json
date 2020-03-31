@@ -5,7 +5,6 @@
   "main": "app.js",
   "scripts": {
     "test": "test",
-    "prestart": "npm install",
     "start": "node app.js"
   },
   "dependencies": {
