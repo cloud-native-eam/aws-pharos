@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The aws-pharos collector is module developed to retrieve the AWS service.
+The aws-pharos collector is an alexandria module developed to retrieve the AWS service.
 
 ## Achitecture overview
 
