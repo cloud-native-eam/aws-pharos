@@ -1,0 +1,16 @@
+{
+  "name": "aws-pharos",
+  "version": "1.0.0",
+  "description": "App js for aws pharos container",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "prestart": "npm install",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "aws-sdk": ">= 2.0.9"
+  },
+  "author": "Nicolas Corpancho Villasana",
+  "license": "ISC"
+}
